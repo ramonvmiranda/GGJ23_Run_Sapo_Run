@@ -1,0 +1,23 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Footstep Forest 1.wav-12070cccf63b9aee1e65cf7ece1e34e8.sample"
+
+[deps]
+
+source_file="res://Assets/Audio/SFXs/Footstep Forest 1.wav"
+dest_files=[ "res://.import/Footstep Forest 1.wav-12070cccf63b9aee1e65cf7ece1e34e8.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0
